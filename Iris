@@ -1,0 +1,10 @@
+IRIS Flower Classification PROJECT
+
+The dataset contains the following columns:
+
+Id: An identifier for each row.
+SepalLengthCm: The length of the sepal in centimeters.
+SepalWidthCm: The width of the sepal in centimeters.
+PetalLengthCm: The length of the petal in centimeters.
+PetalWidthCm: The width of the petal in centimeters.
+Species: The species of the iris flower.
